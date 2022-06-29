@@ -1,7 +1,10 @@
 # download-complete-detector
 
-> **Warning**
-> 検証用です
+> **Warning**  
+> このChrome拡張機能は機能検証用です
+
+- [chrome://extensions/](chrome://extensions/) から、manifest.jsonのあるディレクトリを「パッケージ化されていない拡張機能を読み込む」で指定する。
+- 右上のデベロッパーモードがONになってないとダメかも。
 
 ## background.jsでやってること
 
